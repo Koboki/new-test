@@ -6,3 +6,4 @@ function wait(ms) {
   }
 }
 wait(4000);
+alert("DONE");
